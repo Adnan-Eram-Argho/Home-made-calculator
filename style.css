@@ -1,0 +1,32 @@
+
+.main{
+    width: 300px;
+}
+.field{
+    background-color: goldenrod;
+    color:white;
+    font-size:1.5rem;
+
+}
+.button-normal{
+    background-color: tomato;
+    border:1px solid rgb(182, 179, 179);
+    transition: 0.3s;
+}
+.button-normal:hover{
+    background-color:blueviolet;
+    color:white;
+}
+.button-operator{
+    background-color: yellowgreen;
+    border:1px solid rgb(0, 0, 0);
+    color:white;
+    transition: 0.3s;
+}
+.button-operator:hover{
+    background-color:rgb(112, 150, 37);
+    color:white;
+}
+.h{
+    height:40px;
+}
